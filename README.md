@@ -1,4 +1,5 @@
 # Principal-Components-Analysis-PCA
+![](https://github.com/iurigo/Principal-Components-Analysis-PCA/blob/master/assets/images/pca_coordinate_transformation.png)
 
 PCA is a very popular technique for performing "dimensionality reduction" on your data.
 Dimensionality reduction is the process of combining or collapsing your existing features (columns in X) into new features that not only retain the original information (or as much of it as we can) but also ideally reduce noise.
